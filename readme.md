@@ -1,6 +1,8 @@
 # Rust Latam
-< align="center">
-![](./assets/rust-latam-group.png)
+
+<p align="center">
+<img  src="https://res.cloudinary.com/lenobit/image/upload/v1669142817/Rust%20Essential%20Training/assets/banner-github_k63n9t.png">
+</p>
 
 <hr/>
 <p align="justify">
@@ -11,7 +13,9 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hola,+Bienvenido+a+Rust+Latam..!;Tenemos+un+canal+en+Telegram;)
 
-#### <a href="https://t.me/rustlatam"><img alt="Telegram" width="50px" src="https://img.icons8.com/plasticine/50/null/telegram-app.png"/></a> [Únete aquí](https://t.me/rustlatam)
+#### <a href="https://t.me/rustlatam"><img alt="Telegram" width="50px" src="https://img.icons8.com/plasticine/50/null/telegram-app.png"/></a> 
+
+[Únete aquí 👇](https://t.me/rustlatam)
 
 <hr>
 <h2 align="center"> Tabla de Contenido  </h2>
@@ -244,7 +248,5 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - A Raw Interface to libgit2
 - A Safe Interface to libgit2
 - Conclusion
-  
+
  <hr/>
-  
-  
