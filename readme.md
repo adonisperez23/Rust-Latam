@@ -6,9 +6,9 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 
 <hr>
 
-![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Bienvenido+a+Rust+Latam..!;Tenemos+un+canal+en+Telegram;)<br/>
+![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hola,+Bienvenido+a+Rust+Latam..!;Tenemos+un+canal+en+Telegram;)<br/>
 
-<a href="https://t.me/rustlatam"><img alt="Telegram" width="50px"src="https://img.icons8.com/bubbles/50/null/telegram-app.png"/></a>
+<a href="https://t.me/rustlatam"><img alt="Telegram" width="50px" src="https://img.icons8.com/plasticine/50/null/telegram-app.png"/></a>
 
 <hr>
 
