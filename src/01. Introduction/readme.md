@@ -1,4 +1,4 @@
-# 1. Introducción
+# 01. Introducción
 
 ## Aprede a programar en Rust
 

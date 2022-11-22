@@ -1,4 +1,4 @@
-# 6. Control de Flujo del Programa
+# 06. Control de Flujo del Programa
 
 ## Ejecución Condicional
 

@@ -1,4 +1,4 @@
-# 3. Tipo de Datos Primitivos
+# 03. Tipo de Datos Primitivos
 
 ## Tipos de datos enteros
 

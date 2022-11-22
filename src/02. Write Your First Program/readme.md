@@ -1,4 +1,4 @@
-# 2. Escribe Tu Primer Programa
+# 02. Escribe Tu Primer Programa
 
 ## Instalando Rust en Windows y macOS
 

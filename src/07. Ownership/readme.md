@@ -1,4 +1,4 @@
-# 7. Ownership
+# 07. Ownership
 
 ## Alcance de una variable
 

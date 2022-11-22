@@ -1,4 +1,4 @@
-# 4. Tipos de Datos Compuestos
+# 04. Tipos de Datos Compuestos
 
 # Arrays
 

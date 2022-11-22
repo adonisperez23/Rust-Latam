@@ -1,4 +1,4 @@
-# 5. Funciones
+# 05. Funciones
 
 ## Parámetros de una función
 
