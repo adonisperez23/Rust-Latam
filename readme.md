@@ -1,6 +1,7 @@
 # Rust Latam
-
+<p align="center">
 ![](./assets/rust-latam-group.png)
+</p>
 
 Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español, entre lecciones paso a paso, irás adquiriendo los fundamentos y habilidades necesarias para que puedas programar en este excepcional lenguaje, el código ejemplo te dará una mejor comprensión de los conocimentos adquiridos en cada lección, Rust se caracteriza por La velocidad, la concurrencia y la seguridad en la programación de sistemas. Sin embargo, Rust se ha convertido en una solución para diversos sectores del desarrollo de software y la tecnología, espero que esta guía de aprendisaje pueda ayudarte al máximo y te abra las puertas a nuevas oportunidades como desarrollador de Rust 🦀.
 
@@ -12,21 +13,21 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 
 <hr>
 
-## [1. Introducción](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [1. Introducción](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/01.%20Introduction)
 
 - Aprede a programar en Rust
 - Qué deberías saber?
 - Qué es Rust?
 - Versiones de Rust
 
-## [2. Escribe Tu Primer Programa](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [2. Escribe Tu Primer Programa](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/02.%20Write%20Your%20First%20Program)
 
 - Instalando Rust en Windows y macOS
 - Anatomía de un programa en Rust
 - Añadiendo comentarios
 - Construyendo un programa usando Cargo
 
-## [3. Tipo de Datos Primitivos](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [3. Tipo de Datos Primitivos](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/03.%20Primitive%20data%20Types)
 
 - Tipos de datos enteros
 - Tipos de datos punto-flotantes
@@ -37,7 +38,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Operaciones de comparación
 - Tipos de datos Char
 
-## [4. Tipos de Datos Compuestos](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [4. Tipos de Datos Compuestos](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/04.%20Compound%20Data%20Types)
 
 - Arrays
 - Arrays Multidimensional
@@ -47,13 +48,13 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Tipo String
 - Tipo Aliases
 
-## [5. Funciones](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [5. Funciones](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/05.%20Functions)
 
 - Parámetros de una función
 - Expresiones vs. Declaraciones
 - Valores de retorno de una función
 
-## [6. Control de Flujo del Programa](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [6. Control de Flujo del Programa](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/06.%20Program%20Flow%20Control)
 
 - Ejecución Condicional
 - Múltiples Condiciones
@@ -63,7 +64,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - For Loops
 - Nested Loops
 
-## [7. Ownership](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [7. Ownership](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/07.%20Ownership)
 
 - Alcance de una variable
 - Sombreado de una variable
@@ -73,7 +74,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Movinendo, Clonando y Copiando datos
 - Transferiendo propiedad
 
-## [8. Referencias](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [8. Referencias](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/08.%20References)
 
 - Referencia prenstada
 - Referencia mutable
@@ -81,20 +82,20 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Slices
 - Slices como parámetro de un función
 
-## [9. Modulos](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [9. Modulos](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/09.%20Modules)
 
 - Rust Standard Library y Preludio
 - Standard input
 - Parse string
 - Crates
 
-## [10. Input and Output](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [10. Input and Output](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/10.%20Input%20and%20Output)
 
 - Argumentos por la Línea de Comando
 - Leyendo desde archivos
 - Escribiendo hacia archivos
 
-## [11. Structs](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [11. Structs](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/11.%20Structs)
 
 - Defining structs
 - Struct update syntax
@@ -102,14 +103,14 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Associated functions
 - Tuple structs
 
-## [12. Tipos Genéricos](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [12. Tipos Genéricos](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/12.%20Generic%20Types)
 
 - Definición de una estructura genérica
 - Definición de un método genérico
 - Definición de una función genérica
 - Punteros Inteligentes Box, RC y Arc
 
-## [13. Traits](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [13. Traits](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/13.%20Traits)
 
 - Implement traits
 - Default trait implementation
@@ -118,7 +119,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Multiple trait bounds
 - Return types with implemented traits
 
-## [14. Lifetimes](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [14. Lifetimes](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/14.%20Lifetimes)
 
 - The borrow checker
 - Lifetime annotation syntax
@@ -127,7 +128,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Struct lifetime annotations
 - Static lifetime
 
-## [15. Enums and Patterns](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [15. Enums and Patterns](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/15.%20Enums%20and%20Patterns)
 
 - Define enums
 - Match operator
@@ -137,14 +138,14 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Matching Option<T>
 - if-let syntax
 
-## [16. Error Handling](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [16. Error Handling](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/16.%20Error%20Handling)
 
 - Unrecoverable errors
 - Result<T,E> enum
 - Matching Result<T,E> to recover from errrors
 - Propagating erros
 
-## [17. Operador Overload](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [17. Operador Overload](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/17.%20Operator%20Overloading)
 
 - Arithmetic and Bitwise operators
 - Equivalence Comparisons
@@ -152,7 +153,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Index and IndexMut
 - Other Operators
 
-## [18. Closures](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [18. Closures](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/18.%20Closures)
 
 - Capturing Variables
 - Function and Closure types
@@ -161,7 +162,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Callbacks
 - Using Closures Effectively
 
-## [19. Iterators](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [19. Iterators](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/19.%20Iterators)
 
 - The Iterator and IntoIterator Traits
 - Creating Iterators
@@ -169,7 +170,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Consuming Iterators
 - Implementing Your Own Iterators
 
-## [20. Collections](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [20. Collections](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/20.%20Collections)
 
 - Overview
 - Vec<T>
@@ -180,7 +181,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Hashing
 - Beyond the Standard Collections
 
-## [21. String & Text](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [21. String & Text](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/21.%20String%20%26%20Text)
 
 - Beyond the Standard Collections
 - Characters (char)
@@ -189,14 +190,14 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Regular Expressions
 - Normalization
 
-## [22. Concurrencia](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [22. Concurrencia](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/22.%20Concurrency)
 
 - Fork-Join Parallelism
 - Channels
 - Shared Mutable State
 - What Hacking Concurrent Code in Rust Is Like
 
-## [23. Programación Asíncrona](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [23. Programación Asíncrona](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/23.%20Asynchronous%20Programming)
 
 - From Synchronous to Asynchronous
 - An Asynchronous Client and Server
@@ -204,7 +205,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Pinning
 - When Is Asynchronous Code Helpful?
 
-## [24. Macros](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [24. Macros](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/24.%20Macros)
 
 - Macro Basics
 - Built-In Macros
@@ -213,7 +214,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Avoiding Syntax Errors During Matching
 - Beyond macro_rules!
 
-## [25. Código Inseguro](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [25. Código Inseguro](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/25.%20Unsafe%20Code)
 
 - Unsafe from What?
 - Unsafe Blocks
@@ -227,7 +228,7 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Matching Unions
 - Borrowing Unions
 
-## [26. Función Foránea](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/1.%20Introduction)
+## [26. Función Foránea](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/26.%20Foreign%20Functions)
 
 - Finding Common Data Representations
 - Declaring Foreign Functions and Variables
