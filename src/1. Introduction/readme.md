@@ -1,3 +1,5 @@
+# 1. Introducción
+
 ## Aprede a programar en Rust
 
 ## Qué deberías saber?
