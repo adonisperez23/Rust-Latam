@@ -13,9 +13,9 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%503385ff&lines=Hola,+Bienvenido+a+Rust+Latam..!;Tenemos+un+canal+en+Telegram;)
 
-#### <a href="https://t.me/rustlatam"><img alt="Telegram" width="50px" src="https://img.icons8.com/plasticine/50/null/telegram-app.png"/></a> 
-
 [Únete aquí 👇](https://t.me/rustlatam)
+
+#### <a href="https://t.me/rustlatam"><img alt="Telegram" width="50px" src="https://img.icons8.com/plasticine/50/null/telegram-app.png"/></a>
 
 <hr>
 <h2 align="center"> Tabla de Contenido  </h2>
@@ -100,6 +100,16 @@ Bienvenido a todos, aquí aprenderás a programar en Rust desde cero en español
 - Standard input
 - Parse string
 - Crates
+- The module system
+- Packages vs. Crates
+- Defining modules
+- Absolute vs. relative path
+- Public modules
+- Public structs and enums
+- Bringing paths into scope
+- Using exteral crates
+- Separating modules into multiple files
+- Organizing a project
 
 ### [10. Input and Output](https://github.com/FMFigueroa/Rust-Latam/tree/main/src/10.%20Input%20and%20Output)
 
